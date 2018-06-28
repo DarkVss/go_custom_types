@@ -1,1 +1,1 @@
-# go_custom_types
+<b>Custom types for golang</b>
